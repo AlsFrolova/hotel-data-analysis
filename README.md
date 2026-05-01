@@ -4,6 +4,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-2.0-red)
 ![Seaborn](https://img.shields.io/badge/seaborn-0.12-green)
 ![Plotly](https://img.shields.io/badge/plotly-5.0-orange)
+![SciPy](https://img.shields.io/badge/scipy-1.9-darkblue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-lightgrey)
 
 **Анализ отмен бронирований гостиничного бизнеса** – исследование факторов, влияющих на отмены (тип отеля, тип клиента, lead time, длительность, география), сегментация клиентов и разработка рекомендаций для снижения убытков.
